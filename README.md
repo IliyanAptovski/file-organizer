@@ -19,3 +19,14 @@ A simple Python CLI tool that organizes files into folders by **type** (extensio
 - Beginner-friendly, clean Python code
 - Cross-platform
 
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! To keep everything clean and consistent, please follow these simple guidelines:
+
+### 1. Fork & Branch
+- Fork the repository to your GitHub account.
+- Create a feature branch from `main`:
+  ```bash
+  git checkout -b feat/your-feature-name
